@@ -109,7 +109,7 @@ Caso queira saber, meu carro chefe é Delphi, Flutter e Postgres.
     title="Firebird"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebird/firebird-original.svg)"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebird/firebird-original.svg"
 />
 
 <br/>

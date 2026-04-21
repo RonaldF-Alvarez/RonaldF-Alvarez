@@ -16,8 +16,12 @@ E Voilá, um senso de humor que pode chegar a ser irritante, mas muito ousado.
 1- Eu nunca me irrito com código, pois o código é só o reflexo do programador.
 <br/>
 2- Entendo mais de regras de negócio que o próprio código, coisa que falta no mercado em peso.
+<br/>
+3- Com facilidade, consigo lidar com a maior dificuldade de uma empresa: convencer, conversar, entender e vender ideias aos clientes.
+<br/>
+<br/>
 
-Caso queira saber, meu carro chefe é Delphi, Flutter e Postgres.
+**`Caso queira saber, meu carro chefe é Delphi, Flutter e Postgres.`**
 
 <p align="left">
     <a href="https://github.com/RonaldF-Alvarez?tab=repositories&sort=stargazers">

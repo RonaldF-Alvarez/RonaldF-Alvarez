@@ -5,13 +5,15 @@
 Meu trabalho se resume em desenvolver soluções inteligentes, seguras e que quase nunca são comitadas no Github. 
 Com o máximo de integração com sistemas que possuem legado, e/ou sistemas novos, aumentando ainda mais a performance de empresas ativas no mercado!
 
-**`Aspecto psicológico:`**
+**`Aspecto psicológico:`** <br/>
 Fissurado por engenharia social, oratória e habilidades humanas que criam as melhores, ou piores falhas de segurança cibernética.
 Um pouco de conhecimento em quantico...
+<br/>
 E Voilá, um senso de humor que pode chegar a ser irritante, mas muito ousado.
 
-*`O que me diferencia dos outros programadores:`*
+*`O que me diferencia dos outros programadores:`* <br/>
 1- Eu nunca me irrito com código, pois o código é só o reflexo do programador.
+<br/>
 2- Entendo mais de regras de negócio que o próprio código, coisa que falta no mercado em peso.
 
 Caso queira saber, meu carro chefe é Delphi, Flutter e Postgres.

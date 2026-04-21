@@ -7,6 +7,7 @@ Com o máximo de integração com sistemas que possuem legado, e/ou sistemas nov
 
 **`Aspecto psicológico:`** <br/>
 Fissurado por engenharia social, oratória e habilidades humanas que criam as melhores, ou piores falhas de segurança cibernética.
+<br/>
 Um pouco de conhecimento em quantico...
 <br/>
 E Voilá, um senso de humor que pode chegar a ser irritante, mas muito ousado.

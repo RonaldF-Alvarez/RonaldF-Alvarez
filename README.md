@@ -45,6 +45,7 @@ E Voilá, um senso de humor que pode chegar a ser irritante, mas muito ousado.
 ### 🤖 Linguagens e Tecnologias
 
 <img 
+    
     align="left" 
     alt="HTML"
     title="HTML" 

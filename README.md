@@ -126,7 +126,7 @@ E Voilá, um senso de humor que pode chegar a ser irritante, mas muito ousado.
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="180" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=RonaldF-Alvarez&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
@@ -134,7 +134,7 @@ E Voilá, um senso de humor que pode chegar a ser irritante, mas muito ousado.
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="180" 
       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RonaldF-Alvarez&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
